@@ -1,0 +1,1 @@
+A speaker Recognition system using the KNN algorithm.– Audio data is pre-recorded and processed to extract pitch information from multiple samples.The test sample is then compared to this data to identify the speaker with the smallest pitch difference.
